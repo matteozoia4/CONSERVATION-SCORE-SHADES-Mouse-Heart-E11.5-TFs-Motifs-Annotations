@@ -6,6 +6,5 @@ longLabel Barbara_Wold_Lab_Caltech_polyA_plus_RNA-seq_Assay_Mouse_Developmental_
     thickDrawItem off
     spectrum off
     thickDrawItem off
-    spectrum off
     configurable on
-    visibility full
+    visibility pack
