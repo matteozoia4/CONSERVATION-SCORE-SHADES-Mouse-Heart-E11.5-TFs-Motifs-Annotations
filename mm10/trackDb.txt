@@ -6,6 +6,7 @@ longLabel Barbara_Wold_Lab_Caltech_polyA_plus_RNA-seq_Assay_Mouse_Developmental_
     configurable on
     visibility pack
     useScore on
+    Score 1
     filter.name 0
     filter.score 0:1000
     filterByRange.score on
