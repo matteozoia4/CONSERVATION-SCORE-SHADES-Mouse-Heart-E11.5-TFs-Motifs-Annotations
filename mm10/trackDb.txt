@@ -1,0 +1,17 @@
+track Barbara_Wold_Lab_Caltech_polyA_plus_RNA-seq_Assay_Mouse_Developmental_Heart_TFs_Motifs_Annotations
+bigDataUrl 
+shortLabel E11.5_Heart_TFs_Motifs_Annotations
+longLabel Barbara_Wold_Lab_Caltech_polyA_plus_RNA-seq_Assay_Mouse_Developmental_Heart_E11.5_TFs_Motifs_Annotations_mm10_Mouse_Genome_reference
+    type bigBed 6 +
+    colorByStrand 255,0,0 0,0,255
+    scoreFilter 700
+    scoreFilterLimits 100:1000
+    thickDrawItem on
+    spectrum on
+    scoreMin 700
+    scoreMax 900
+    color 0,0,255
+    minGrayLevel   4
+    useScore=1
+    configurable on
+    visibility full
