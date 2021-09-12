@@ -1,5 +1,5 @@
 hub TFs Motifs List
 shortLabel Mouse Heart E11.5 TFs Motifs Annotations
-longLabel Assay: polyA plus RNA-seq | Experiment summary for ENCSR6910PQ | www.encodeproject.org/experiments/ENCSR6910PQ | Annotations (mm10 genome) of TFs Motifs activs at E11.5 in Developmental E11.5 Mouse Heart 
+longLabel Barbara Wold Lab Caltech - polyA plus RNA-seq Assay | Experiment summary for ENCSR6910PQ - www.encodeproject.org/experiments/ENCSR6910PQ | Annotations (mm10 genome) of TFs Motifs activs in Developmental Mouse Heart at E11.5
 genomesFile genomes.txt 
 email  matteo.zoia@dbmr.unibe.ch
