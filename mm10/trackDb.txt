@@ -5,5 +5,4 @@ longLabel Barbara_Wold_Lab_Caltech_polyA_plus_RNA-seq_Assay_Mouse_Developmental_
     type bigBed 5 .
     configurable on
     visibility pack
-    scoreFilter 1
-    scoreFilterLimits 0:1000
+    spectrum on
