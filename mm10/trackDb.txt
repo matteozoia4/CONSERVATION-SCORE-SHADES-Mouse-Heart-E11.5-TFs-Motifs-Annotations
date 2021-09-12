@@ -8,6 +8,14 @@ longLabel Barbara_Wold_Lab_Caltech_polyA_plus_RNA-seq_Assay_Mouse_Developmental_
     thickDrawItem off
     configurable on
     visibility pack
-    filterValues.annotationType DNA-BR|DNA-binding region,AS|active site,AH|alpha helix,BS|beta strand
+    filterValues.annotationType 
     filterType.annotationType multipleListAnd
-    filterValuesDefault.annotationType DNA-BR,BS
+    filterValuesDefault.annotationType 
+    scoreFilter 700
+    scoreFilterLimits 0:1000
+    thickDrawItem on
+    scoreMin 0
+    scoreMax 1000
+    color 0,0,255
+    minGrayLevel   4
+    useScore=1
