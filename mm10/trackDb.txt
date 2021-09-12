@@ -5,7 +5,6 @@ longLabel Barbara_Wold_Lab_Caltech_polyA_plus_RNA-seq_Assay_Mouse_Developmental_
     type bigBed 6 +
     thickDrawItem on
     spectrum on
-    useScore 1
     scoreFilter 1
     scoreFilterLimits 1:1000
     thickDrawItem on
