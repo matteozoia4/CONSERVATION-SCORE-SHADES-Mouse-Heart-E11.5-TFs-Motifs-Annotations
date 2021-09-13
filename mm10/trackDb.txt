@@ -7,4 +7,3 @@ useScore 1
     scoreFilter 0
     scoreFilterLimits 0:1000
     visibility pack
-    filterText.name *
