@@ -6,6 +6,6 @@ longLabel Barbara_Wold_Lab_Caltech_polyA_plus_RNA-seq_Assay_Mouse_Developmental_
     filter.name 0
     filter.score 0:1000
     filterByRange.score on
-    filterLimits.score 0:10
+    filterLimits.score 0:1000
     filterLabel.score Value range to filter
     bedNameLabel Motif specs
