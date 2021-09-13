@@ -7,4 +7,4 @@ useScore 1
     scoreFilter 0
     scoreFilterLimits 0:1000
     visibility pack
-    VALUES without ;seq*=VALUE
+    bedNameLabel Motif specs
