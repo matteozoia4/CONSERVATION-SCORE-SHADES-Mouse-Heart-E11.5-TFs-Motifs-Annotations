@@ -8,3 +8,4 @@ useScore 1
     scoreFilterLimits 0:1000
     visibility pack
     bedNameLabel Motif specs
+    name without ;seq*=name
