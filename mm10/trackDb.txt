@@ -8,4 +8,3 @@ useScore 1
     scoreFilterLimits 0:1000
     visibility pack
     filterText.name *
-    configurable on
