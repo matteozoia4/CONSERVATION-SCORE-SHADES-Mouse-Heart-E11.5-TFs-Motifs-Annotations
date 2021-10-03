@@ -6,5 +6,6 @@ useScore 1
 type bigBed 9 .
     scoreFilter 0
     scoreFilterLimits 0:1000
+    filterText.name *
     visibility pack
     bedNameLabel Motif specs
